@@ -1,0 +1,2 @@
+# pythonProjectSDP
+copyright ©
